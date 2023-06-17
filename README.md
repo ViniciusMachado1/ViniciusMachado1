@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Vinicius machado dos santos and i'm a PL/SQL developer at ROMI S.A.
+- i have a good knowledge in english but my born language is portuguese, i've been studing english for 5 years and keep doing it.
+- Beside PL/SQL i work with HTML, javascript and CSS but in bank level
